@@ -14,8 +14,8 @@ annotations:
     - image: dp.apps.rancher.io/containers/pytorch:2.7.0-nvidia
       name: pytorch
 apiVersion: v2
-name: suse-ai-deployer
-description: A Meta Helm chart for deploying SUSE AI components
+name: suse-ai-minimal
+description: A simple template to deploy minimal set of SUSE AI components
 keywords:
   - ai
 
