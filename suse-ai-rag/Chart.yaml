@@ -15,7 +15,7 @@ annotations:
       name: pytorch
 apiVersion: v2
 name: suse-ai-rag
-description: A Meta Helm chart for deploying SUSE AI components
+description: A simple environment enabling RAG with SUSE AI components
 keywords:
   - ai
 
