@@ -1,6 +1,6 @@
 namespace: suse-private-ai
 helm:
-  releaseName: suse-ai-rag
+  releaseName: suse-ai-mlops
   repo: ""
   chart: "."
   version: ""
