@@ -57,8 +57,8 @@ dependencies:
     version: 0.2.0
     repository: oci://dp.apps.rancher.io/charts
     condition: pytorch.enabled
-home: https://apps.rancher.io/applications/suse-ai-deployer
-icon: https://apps.rancher.io/logos/suse-ai-deployer.png
+home: https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant
+icon: https://avatars.githubusercontent.com/u/178940881?s=200&v=4
 maintainers:
-  - url: https://www.suse.com/
-    name: SUSE LLC
+  - url: https://wwww.nvidia.com/
+    name: NVIDIA LLC
