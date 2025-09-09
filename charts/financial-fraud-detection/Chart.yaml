@@ -14,8 +14,8 @@ annotations:
     - image: dp.apps.rancher.io/containers/pytorch:2.7.0-nvidia
       name: pytorch
 apiVersion: v2
-name: "NVIDIA: Retail Shopping Assistant"
-description: The Retail Shopping Assistant is an AI-powered blueprint that provides a comprehensive interface for an intelligent retail shopping advisor. Built with LangGraph for agent orchestration, it features multi-agent architecture, real-time streaming responses, image-based search, and intelligent shopping cart management.
+name: "NVIDIA: Financial Fraud Detection"
+description: This NVIDIA AI Blueprint provides a reference example to detect and prevent sophisticated fraudulent activities for financial services with high accuracy and reduced false positives. 
 keywords:
   - ai
 
@@ -57,7 +57,7 @@ dependencies:
     version: 0.2.0
     repository: oci://dp.apps.rancher.io/charts
     condition: pytorch.enabled
-home: https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant
+home: https://github.com/NVIDIA-AI-Blueprints/financial-fraud-detection
 icon: https://avatars.githubusercontent.com/u/178940881?s=200&v=4
 maintainers:
   - url: https://wwww.nvidia.com/
